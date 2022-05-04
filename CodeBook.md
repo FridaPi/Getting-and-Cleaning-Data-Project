@@ -1,4 +1,4 @@
-The CourseProject.R loads the data and cleans the data into tidydata following the project description.
+The run_analysis.R loads the data and cleans the data into tidydata following the project description.
 
 1.  Download the dataset
 Dataset downloaded and extracted under the folder called UCI HAR Dataset
